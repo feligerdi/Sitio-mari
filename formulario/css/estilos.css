@@ -1,0 +1,10 @@
+body{margin:0;padding: 0;background-image: url("../img/mari.png");}
+
+#main{
+	border:solid;
+	width: 71.26%;
+	/*para centrar bloques de modo simple, se debe utilizar el margin X, en valores iguales (o auto)*/
+	margin-left:auto;
+	margin-right:auto;
+	background-color: rgba(9,71,171,0.5);
+}
